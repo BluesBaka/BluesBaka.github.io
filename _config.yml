@@ -1,0 +1,21 @@
+# Site settings
+title: 3timesthecaffeine
+header-img: img/home-bg.png
+email: badunnells@gmail.com
+copyright_name: BluesBaka
+description: > # this means to ignore newlines until "baseurl:"
+  Learning to code in ruby with a dash of "what-else-can-I-learn?"
+baseurl: "" # the subpath of your site, e.g. /blog
+twitter_username: Bluesbaka
+github_username:  BluesBaka
+learn_profile: BluesBaka
+email_username: badunnells@gmail.com
+
+# Build settings
+markdown: kramdown
+highlighter: rouge
+permalink: pretty
+paginate: 5
+exclude: ["less","node_modules","Gruntfile.js","package.json","README.md"]
+
+gems: [jekyll-paginate, jekyll-feed]
