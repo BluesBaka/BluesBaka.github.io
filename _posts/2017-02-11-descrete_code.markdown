@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Descrete Code"
-date:   2017-02-11 04:18:40 +0000
+date:   2017-02-10 23:18:41 -0500
 ---
 
 
@@ -10,7 +10,7 @@ date:   2017-02-11 04:18:40 +0000
 An Ode to Atomized Code:
 
 My heart leaps up when I behold
-The a codebase- clean and dry:
+A codebase- clean and dry:
 To transform inputs, returns, and filenames
 To transform hashes, arrays, and strings,
 To transform into logic bold
